@@ -1,0 +1,8 @@
+bin/
+obj/
+dist/
+*.user
+.vs/
+tools/explore/*.exe
+tools/explore/*.obj
+
